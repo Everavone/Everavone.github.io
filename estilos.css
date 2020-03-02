@@ -1,0 +1,35 @@
+*{margin:0;padding: 0; }
+html{font-family: arial}
+
+.contenedor{
+	width:80%;
+	margin: 0 auto;
+}
+header{
+	text-align:center;
+}
+
+#secc-1{
+	background: olive;
+}
+#secc-2 {
+	background: salmon;
+}
+#secc-3 {
+	background: lightgrey;
+}
+#secc-4 {
+	background: lightblue;
+}
+#secc-5{
+	background: peru;
+}
+#secc-6 {
+	background: tomato;
+}
+/*section{*/
+#secc-1,#secc-2,#secc-3,#secc-4,#secc-5,#secc-6{
+	padding-top:50px;
+	height: 400px;
+	color: white;
+}
